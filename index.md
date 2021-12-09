@@ -8,7 +8,7 @@ JIACHENG WU
 I am a 4th year chemical engineering student at the University of Sydney, interested in developing sustainable energy in chemical engineering.
 
 ## Education
-*2018.7-2022.7* **The University of Sydney**
+*2018.7-2022.7* The University of Sydney
 
 Bachelor of Engineering Honours (Chemical and Biomolecular)
 
