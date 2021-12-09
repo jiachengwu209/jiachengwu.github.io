@@ -1,6 +1,4 @@
 
-# JIACHENG WU Academic Homepage
-
 <img src="https://user-images.githubusercontent.com/95839676/145388605-1c5f8c59-dc64-4346-9b30-1bb5ee4bb83e.jpg" width="200" height="200" />
 
 JIACHENG WU
@@ -10,7 +8,9 @@ JIACHENG WU
 I am a 4th year chemical engineering student at the University of Sydney, interested in the applications of sustainable energy development in chemical and material engineering.
 
 ## Education
-*2018.7-2022.7* **The University of Sydney Bachelor of Engineering Honours (Chemical and Biomolecular)**
+*2018.7-2022.7* **The University of Sydney**
+
+Bachelor of Engineering Honours (Chemical and Biomolecular)
 
 ## Research Interests
 - Rechargeable Aquesous Zinc-ion Batteries
