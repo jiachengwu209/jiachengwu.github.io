@@ -18,7 +18,7 @@ I am a 4th year chemical engineering student at the University of Sydney, intere
 - Gas Diffusion Electrode Cell for Electrochemical CO<sub>2</sub> Reduction
 
 ## CV
-[Resume_JIACHENG_WU.pdf](https://github.com/jiachengwu209/jiachengwu.github.io/files/7684838/Resume_JIACHENG_WU.pdf)
+https://drive.google.com/file/d/1Fruoh2toN8M0bI4xy3NTr9w6CW5_qJDt/view?usp=sharing
 
 ## Awards
 Dalyell Scholar (2018)
