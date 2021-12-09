@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jiachengwu209/jiachengwu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# JIACHENG WU Academic Homepage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://user-images.githubusercontent.com/95839676/145388605-1c5f8c59-dc64-4346-9b30-1bb5ee4bb83e.jpg" width="200" height="200" />
 
-### Markdown
+JIACHENG WU
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Email**: jiwu7886@uni.sydney.edu.au
 
-```markdown
-Syntax highlighted code block
+I am a 4th year chemical engineering student at the University of Sydney, interested in the applications of sustainable energy development in chemical and material engineering.
 
-# Header 1
-## Header 2
-### Header 3
+## Education
+*2018.7-2022.7* **The University of Sydney Bachelor of Engineering Honours (Chemical and Biomolecular)**
 
-- Bulleted
-- List
+## Research Interests
+- Rechargeable Aquesous Zinc-ion Batteries
+- Metal-organic Frameworks (MOFs) in the Capture of CO<sub>2</sub>
+- Gas Diffusion Electrode Cell for Electrochemical CO<sub>2</sub> Reduction
 
-1. Numbered
-2. List
+## CV
+[Resume_JIACHENG_WU.pdf](https://github.com/jiachengwu209/jiachengwu.github.io/files/7684838/Resume_JIACHENG_WU.pdf)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiachengwu209/jiachengwu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Awards
+Dalyell Scholar (2018)
