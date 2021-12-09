@@ -17,8 +17,11 @@ Bachelor of Engineering Honours (Chemical and Biomolecular)
 - Metal-organic Frameworks (MOFs) in the Capture of CO<sub>2</sub>
 - Gas Diffusion Electrode Cell for Electrochemical CO<sub>2</sub> Reduction
 
+## Publications
+Under updates
+
 ## CV
-[CV](https://drive.google.com/file/d/1Fruoh2toN8M0bI4xy3NTr9w6CW5_qJDt/view?usp=sharing)
+[CV_JIACHENG WU](https://drive.google.com/file/d/1Fruoh2toN8M0bI4xy3NTr9w6CW5_qJDt/view?usp=sharing)
 
 ## Awards
 Dalyell Scholar (2018)
