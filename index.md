@@ -1,3 +1,4 @@
+# Jiacheng Wu Academic Page
 
 <img src="https://user-images.githubusercontent.com/95839676/145388605-1c5f8c59-dc64-4346-9b30-1bb5ee4bb83e.jpg" width="200" height="200" />
 
