@@ -18,7 +18,7 @@ Bachelor of Engineering Honours (Chemical and Biomolecular)
 - Gas Diffusion Electrode Cell for Electrochemical CO<sub>2</sub> Reduction
 
 ## CV
-https://drive.google.com/file/d/1Fruoh2toN8M0bI4xy3NTr9w6CW5_qJDt/view?usp=sharing
+[CV](https://drive.google.com/file/d/1Fruoh2toN8M0bI4xy3NTr9w6CW5_qJDt/view?usp=sharing)
 
 ## Awards
 Dalyell Scholar (2018)
