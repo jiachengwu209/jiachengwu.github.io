@@ -1,4 +1,4 @@
-# Jiacheng Wu Academic Page
+# Jiacheng Wu's Academic Page
 
 <img src="https://user-images.githubusercontent.com/95839676/145388605-1c5f8c59-dc64-4346-9b30-1bb5ee4bb83e.jpg" width="200" height="200" />
 
@@ -25,4 +25,6 @@ Wait for updates
 [CV_JIACHENG WU](https://drive.google.com/file/d/1Fruoh2toN8M0bI4xy3NTr9w6CW5_qJDt/view?usp=sharing)
 
 ## Awards
-Dalyell Scholar (2018)
+- Engineering Summer Research Scholarhips (2020)
+- Dalyell Global Exchange Scholarships (2019)
+- Dalyell Scholar (2018)
