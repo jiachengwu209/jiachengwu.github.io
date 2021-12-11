@@ -3,3 +3,5 @@ plugins:
 
 remote_theme: vszhub/not-pure-poole
 
+
+theme: jekyll-theme-modernist
